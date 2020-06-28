@@ -6,6 +6,7 @@ import com.liulang.model.CourseSubitem;
 import com.liulang.service.CourseService;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
@@ -28,7 +29,7 @@ public class CourseController {
 
     @RequestMapping(value="/courseSubitem")
     @ResponseBody
-    public  String courseSubitem(@Param("data") Integer courseid){
+    public  String courseSubitem(Integer courseid){
         System.out.println("已被请求 ："+courseid);
         List<CourseSubitem> coursesSubitemList =  courseService.getCourseSubitemByCourseid(courseid);
         return JSON.toJSONString(coursesSubitemList);
