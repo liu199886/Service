@@ -4,9 +4,7 @@ import com.alibaba.fastjson.JSON;
 import com.liulang.model.Course;
 import com.liulang.model.CourseSubitem;
 import com.liulang.service.CourseService;
-import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 

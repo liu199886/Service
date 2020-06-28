@@ -7,14 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aadcd76-a652-44b1-b42b-666a1467d333" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liulang/controller/CourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/controller/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/controller/CourseController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/controller/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liulang/controller/CourseController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -236,7 +230,7 @@
       <workItem from="1592101806944" duration="4204000" />
       <workItem from="1592116616816" duration="14086000" />
       <workItem from="1592362865201" duration="1987000" />
-      <workItem from="1593305559213" duration="9274000" />
+      <workItem from="1593305559213" duration="13986000" />
     </task>
     <servers />
   </component>
