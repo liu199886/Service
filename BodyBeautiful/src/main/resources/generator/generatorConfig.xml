@@ -34,8 +34,6 @@
 
          <!--数据库中的表名称和对应的实体类名称-->
         </javaClientGenerator>
-        <table tableName="course_goods" domainObjectName="Course"></table>
-        <table tableName="course_subitem_goods" domainObjectName="CourseSubitem"></table>
-
+        <table tableName="commodity_order" domainObjectName="CommodityOrder"></table>
     </context>
 </generatorConfiguration>

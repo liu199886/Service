@@ -40,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,8 +58,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\workapp2\Javass\maven-repository" />
-        <option name="userSettingsFile" value="D:\workapp2\Javass\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="userSettingsFile" value="E:\Jas\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -96,9 +96,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.12">
-    <configuration name="CourseTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BodyBeautifu" />
+  <component name="RunManager" selected="JUnit.CourseTest.userService">
+    <configuration name="CourseTest.selectAll (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BodyBeautiful" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
@@ -108,6 +108,22 @@
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
       <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseTest.selectCourseSubitem (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BodyBeautiful" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
+      <option name="METHOD_NAME" value="selectCourseSubitem" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,6 +140,38 @@
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
       <option name="METHOD_NAME" value="selectCourseSubitem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseTest.selectOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BodyBeautiful" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
+      <option name="METHOD_NAME" value="selectOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseTest.userService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BodyBeautiful" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
+      <option name="METHOD_NAME" value="userService" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -204,14 +252,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CourseTest.selectAll" />
       <item itemvalue="JUnit.CourseTest.selectCourseSubitem" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.12" />
+      <item itemvalue="JUnit.CourseTest.selectCourseSubitem (1)" />
+      <item itemvalue="JUnit.CourseTest.selectOrder" />
+      <item itemvalue="JUnit.CourseTest.selectAll (1)" />
+      <item itemvalue="JUnit.CourseTest.userService" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CourseTest.userService" />
+        <item itemvalue="JUnit.CourseTest.selectAll (1)" />
+        <item itemvalue="JUnit.CourseTest.selectOrder" />
+        <item itemvalue="JUnit.CourseTest.selectCourseSubitem (1)" />
         <item itemvalue="JUnit.CourseTest.selectCourseSubitem" />
-        <item itemvalue="JUnit.CourseTest.selectAll" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +285,8 @@
       <workItem from="1592116616816" duration="14086000" />
       <workItem from="1592362865201" duration="1987000" />
       <workItem from="1593305559213" duration="13986000" />
+      <workItem from="1593430430509" duration="81000" />
+      <workItem from="1593430524692" duration="7814000" />
     </task>
     <servers />
   </component>
