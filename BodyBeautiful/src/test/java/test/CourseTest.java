@@ -6,12 +6,10 @@ import com.liulang.dao.CourseSubitemMapper;
 import com.liulang.model.Course;
 import com.liulang.model.CourseSubitem;
 import com.liulang.service.CourseService;
-import com.liulang.service.impl.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-import org.springframework.test.context.web.WebAppConfiguration;
 
 import javax.annotation.Resource;
 import java.util.List;
@@ -32,8 +30,7 @@ public class CourseTest {
     @Resource(name="commodityOrderMapper")
     private CommodityOrderMapper commodityOrderMapper;
 
-    @Resource(name="userServiceImpl")
-    private UserService us;
+
 
     @Test
     public void selectAll(){
@@ -53,12 +50,8 @@ public class CourseTest {
 
     @Test
     public void selectOrder(){
-        System.out.println("sss: "+commodityOrderMapper.selectByOpenid("123123"));
+        System.out.println("sss: "+commodityOrderMapper.selectByOpenid("111").getByTime());
     }
 
-    @Test
-    public void userService(){
 
-        System.out.println("sss: "+us.getByTime("123123"));
-    }
 }

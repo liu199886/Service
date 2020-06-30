@@ -8,8 +8,22 @@
   <component name="ChangeListManager">
     <list default="true" id="4aadcd76-a652-44b1-b42b-666a1467d333" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liulang/controller/CourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/controller/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liulang/controller/CourseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liulang/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/model/CommodityOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liulang/model/CommodityOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/service/impl/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/CourseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/CourseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/controller/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/controller/CourseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/dao/CourseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/dao/CourseMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/generator/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liulang/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/model/CommodityOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liulang/model/CommodityOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/service/impl/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/BodyBeautifu.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/CourseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/CourseTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +72,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="E:\Jas\apache-maven-3.5.4\conf\settings.xml" />
+        <option name="userSettingsFile" value="D:\workapp2\Javass\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -74,7 +88,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -96,7 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CourseTest.userService">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.12">
     <configuration name="CourseTest.selectAll (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BodyBeautiful" />
       <extension name="coverage">
@@ -253,17 +267,17 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.CourseTest.selectCourseSubitem" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.12" />
       <item itemvalue="JUnit.CourseTest.selectCourseSubitem (1)" />
       <item itemvalue="JUnit.CourseTest.selectOrder" />
       <item itemvalue="JUnit.CourseTest.selectAll (1)" />
       <item itemvalue="JUnit.CourseTest.userService" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CourseTest.selectOrder" />
         <item itemvalue="JUnit.CourseTest.userService" />
         <item itemvalue="JUnit.CourseTest.selectAll (1)" />
-        <item itemvalue="JUnit.CourseTest.selectOrder" />
         <item itemvalue="JUnit.CourseTest.selectCourseSubitem (1)" />
         <item itemvalue="JUnit.CourseTest.selectCourseSubitem" />
       </list>
@@ -287,6 +301,7 @@
       <workItem from="1593305559213" duration="13986000" />
       <workItem from="1593430430509" duration="81000" />
       <workItem from="1593430524692" duration="7814000" />
+      <workItem from="1593481760998" duration="6761000" />
     </task>
     <servers />
   </component>
