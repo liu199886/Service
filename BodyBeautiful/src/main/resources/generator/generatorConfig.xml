@@ -34,6 +34,6 @@
 
          <!--数据库中的表名称和对应的实体类名称-->
         </javaClientGenerator>
-        <table tableName="commodity_order" domainObjectName="CommodityOrder"></table>
+        <table tableName="user_wechart_user" domainObjectName="User"></table>
     </context>
 </generatorConfiguration>

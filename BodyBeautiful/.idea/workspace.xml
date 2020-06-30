@@ -1,102 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="BodyBeautiful:war" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aadcd76-a652-44b1-b42b-666a1467d333" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liulang/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/model/CommodityOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liulang/model/CommodityOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/service/impl/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liulang/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/CourseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/CourseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/controller/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/controller/CourseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/dao/CourseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/com/liulang/dao/CourseMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/BodyBeautiful/WEB-INF/classes/generator/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liulang/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/model/CommodityOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liulang/model/CommodityOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/service/impl/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liulang/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/BodyBeautifu.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/CourseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/CourseTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="fa822f7b-56a8-4049-bae8-fb3259777a4b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="BodyBeautiful" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="D:\workapp2\Javass\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="userSettingsFile" value="E:\Jas\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="ProjectId" id="1dFP5wjwTcH2cgMO3UesiDEMaXV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1e2hCoR194NE8XxWPx3t3rsu41J" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Jas\ideaapps\BodyBeautiful\src\main\resources\generator" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,89 +35,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.12">
-    <configuration name="CourseTest.selectAll (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BodyBeautiful" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
-      <option name="METHOD_NAME" value="selectAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CourseTest.selectCourseSubitem (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BodyBeautiful" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
-      <option name="METHOD_NAME" value="selectCourseSubitem" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CourseTest.selectCourseSubitem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BodyBeautifu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
-      <option name="METHOD_NAME" value="selectCourseSubitem" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CourseTest.selectOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BodyBeautiful" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
-      <option name="METHOD_NAME" value="selectOrder" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CourseTest.userService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BodyBeautiful" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.CourseTest" />
-      <option name="METHOD_NAME" value="userService" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat 9.0.12" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER" value="false" />
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.12" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="BodyBeautiful:war">
@@ -200,9 +44,14 @@
             <option name="CONTEXT_PATH" value="/BodyBeautiful_war" />
           </settings>
         </artifact>
+        <artifact name="BodyBeautiful:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BodyBeautiful_war_exploded" />
+          </settings>
+        </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BodyBeautiful_5" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BodyBeautiful_2" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -210,7 +59,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="61385" />
+        <option name="DEBUG_PORT" value="53494" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -260,48 +109,23 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="BodyBeautifu:war" />
           <artifact name="BodyBeautiful:war" />
+          <artifact name="BodyBeautiful:war exploded" />
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JUnit.CourseTest.selectCourseSubitem" />
-      <item itemvalue="JUnit.CourseTest.selectCourseSubitem (1)" />
-      <item itemvalue="JUnit.CourseTest.selectOrder" />
-      <item itemvalue="JUnit.CourseTest.selectAll (1)" />
-      <item itemvalue="JUnit.CourseTest.userService" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.12" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.CourseTest.selectOrder" />
-        <item itemvalue="JUnit.CourseTest.userService" />
-        <item itemvalue="JUnit.CourseTest.selectAll (1)" />
-        <item itemvalue="JUnit.CourseTest.selectCourseSubitem (1)" />
-        <item itemvalue="JUnit.CourseTest.selectCourseSubitem" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4aadcd76-a652-44b1-b42b-666a1467d333" name="Default Changelist" comment="" />
-      <created>1592017688639</created>
+      <changelist id="fa822f7b-56a8-4049-bae8-fb3259777a4b" name="Default Changelist" comment="" />
+      <created>1593524247003</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1592017688639</updated>
-      <workItem from="1592017691181" duration="2238000" />
-      <workItem from="1592019947434" duration="25038000" />
-      <workItem from="1592101806944" duration="4204000" />
-      <workItem from="1592116616816" duration="14086000" />
-      <workItem from="1592362865201" duration="1987000" />
-      <workItem from="1593305559213" duration="13986000" />
-      <workItem from="1593430430509" duration="81000" />
-      <workItem from="1593430524692" duration="7814000" />
-      <workItem from="1593481760998" duration="6761000" />
+      <updated>1593524247003</updated>
+      <workItem from="1593524250084" duration="1208000" />
     </task>
     <servers />
   </component>
@@ -313,9 +137,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
