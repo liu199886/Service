@@ -1,7 +1,7 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : try1
+Source Server         : sql1
 Source Server Version : 50562
 Source Host           : localhost:3306
 Source Database       : bodybuilding
@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50562
 File Encoding         : 65001
 
-Date: 2020-06-14 23:43:20
+Date: 2020-07-01 17:34:10
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -22,16 +22,17 @@ DROP TABLE IF EXISTS `commodity_order`;
 CREATE TABLE `commodity_order` (
   `orderid` int(11) NOT NULL AUTO_INCREMENT COMMENT '自增长主键',
   `order_no` varchar(20) NOT NULL COMMENT '订单单号',
-  `userid` int(11) NOT NULL COMMENT '关联的用户id',
+  `openid` varchar(50) NOT NULL COMMENT '关联的用户id',
   `goodsid` int(11) NOT NULL COMMENT '购买商品id',
   `order_amount_total` double NOT NULL COMMENT '订单金额',
   `by_time` datetime NOT NULL,
   PRIMARY KEY (`orderid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of commodity_order
 -- ----------------------------
+INSERT INTO `commodity_order` VALUES ('1', '1', '111', '3', '11', '2020-06-29 14:21:43');
 
 -- ----------------------------
 -- Table structure for `course_goods`
@@ -44,7 +45,7 @@ CREATE TABLE `course_goods` (
   `url` varchar(50) DEFAULT NULL COMMENT '图片或者视频地址',
   `detailed` text COMMENT '详细信息',
   PRIMARY KEY (`courseid`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of course_goods
@@ -81,17 +82,17 @@ DROP TABLE IF EXISTS `user_wechart_user`;
 CREATE TABLE `user_wechart_user` (
   `userid` int(11) NOT NULL AUTO_INCREMENT COMMENT '用户id',
   `openid` varchar(50) NOT NULL COMMENT '微信id',
-  `nickname` varchar(30) NOT NULL,
-  `sex` tinyint(4) NOT NULL,
-  `province` varchar(15) NOT NULL,
-  `city` varchar(20) NOT NULL,
-  `county` varchar(30) NOT NULL,
-  `language` varchar(50) NOT NULL,
-  `headimgurl` varchar(255) NOT NULL,
+  `nickname` varchar(10) NOT NULL,
   `registert_time` date NOT NULL,
   PRIMARY KEY (`userid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of user_wechart_user
 -- ----------------------------
+INSERT INTO `user_wechart_user` VALUES ('1', '111', '111', '2020-07-01');
+INSERT INTO `user_wechart_user` VALUES ('2', 'adakdkad', '法外狂徒张三', '2020-07-01');
+INSERT INTO `user_wechart_user` VALUES ('3', 'adakdkad', '法外狂徒张三', '2020-07-01');
+INSERT INTO `user_wechart_user` VALUES ('4', '65464646', '赵四', '2020-07-01');
+INSERT INTO `user_wechart_user` VALUES ('5', 'otxDV5Lk7ln_e2iJyTvLAT_nPEdw', '', '2020-07-01');
+INSERT INTO `user_wechart_user` VALUES ('6', 'otxDV5BxuaDypO3b9oaahfqESXdI', '叮咚', '2020-07-01');
