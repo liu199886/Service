@@ -1,5 +1,7 @@
 package com.liulang.service;
 
+import com.liulang.model.User;
+
 public interface UserService {
-    void addUser();
+    String addUser(User user);
 }
